@@ -11,7 +11,7 @@ github_repo: "https://github.com/amazingJing/amazingJing.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "使人疲惫的不是远方的高山，而是鞋子里的一粒沙子!"
+sidebar-about-description: "流水不争先，争得是滔滔不绝!"
 sidebar-avatar: /img/head-portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
