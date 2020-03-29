@@ -1,7 +1,7 @@
 # Site settings
 title: amazingJing Blog
 SEOTitle: amazingJing的博客 | amazingJing Blog
-header-img: img/post-bg-ct.jpg
+header-img: img/post-bg-cc.jpg
 email: GentlemenJing@gmail.com
 description: "流水不争先，争得是滔滔不绝"
 keyword: "amazingJing, amazingJing Blog, amazingJing的博客, amazingJing, 荆海航, Java,Flink"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/amazingJing/amazingJing.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "使人疲惫的不是远方的高山，而是鞋子里的一粒沙子!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/head-portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
