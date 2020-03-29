@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 神兵的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: amazingJing Blog
+SEOTitle: amazingJing的博客 | amazingJing Blog
+header-img: img/post-bg-ct.jpg
 email: GentlemenJing@gmail.com
 description: "流水不争先，争得是滔滔不绝"
-keyword: "BY, BY Blog, 神兵的博客, amazingJing, 荆海航, Java,Flink"
+keyword: "amazingJing, amazingJing Blog, amazingJing的博客, amazingJing, 荆海航, Java,Flink"
 url: "http://amazingJing.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/amazingJing/amazingJing.github.io.git" # you code repository
