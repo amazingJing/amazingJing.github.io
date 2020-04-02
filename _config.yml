@@ -1,8 +1,8 @@
 # Site settings
-title: amazingJing Blog
+title: 神兵のBlog
 SEOTitle: 神兵のBlog | amazingJing的博客
 header-img: img/home-bg-cool.jpg
-email: GentlemenJing@gmail.com
+email: jinghaihang_hrbeu@163.com
 description: "流水不争先，争得是滔滔不绝"
 keyword: "amazingJing, amazingJing Blog, amazingJing的博客, amazingJing, 荆海航, Java,Flink"
 url: "http://amazingJing.github.io"          # your host, for absolute URL
@@ -22,8 +22,8 @@ RSS: false
 #zhihu_username:     amazingJing
 github_username:    amazingJing
 #facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+简书地址:   https://www.jianshu.com/u/2a0071d98c50
+CSDN地址:   https://blog.csdn.net/amazingJing
 
 
 
